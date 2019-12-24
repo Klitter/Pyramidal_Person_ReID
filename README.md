@@ -1,8 +1,8 @@
 # Pyramidal Person Re-IDentification
 
-A simple reproduction of  Pyramidal Person Re-IDentification via Multi-Loss Dynamic Training. CVPRW2018, Oral.
+A simple reproduction of Pyramidal Person Re-IDentification via Multi-Loss Dynamic Training (CVPR2019).
 
-[[PDF]](https://arxiv.org/pdf/1810.12193.pdf)
+[[PDF]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Pyramidal_Person_Re-IDentification_via_Multi-Loss_Dynamic_Training_CVPR_2019_paper.pdf)
 
 ### I hope that this reproduction can help your research or work.
 
