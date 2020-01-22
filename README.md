@@ -16,11 +16,11 @@ A simple reproduction of Pyramidal Person Re-IDentification via Multi-Loss Dynam
 | CUHK03-Labelled | 76.89 |
 | CUHK03-Detected | 74.77 |
 
-[model(Market1501)](https://drive.google.com/file/d/1Ur_DoJ0T35p37RCM-5NGGMXlBM9WY73V/view?usp=sharing)
+[Resnet101+Pyramidal module(Market1501)](https://drive.google.com/file/d/1Ur_DoJ0T35p37RCM-5NGGMXlBM9WY73V/view?usp=sharing)
 
-[model(DukeMTMC-reID)](https://drive.google.com/file/d/1ShlXqJxnZtFudJMi18MrF1IgoTpHOWQ3/view?usp=sharing)
+[Resnet101+Pyramidal module(DukeMTMC-reID)](https://drive.google.com/file/d/1ShlXqJxnZtFudJMi18MrF1IgoTpHOWQ3/view?usp=sharing)
 
-[model(CUHK03-Labelled)](https://drive.google.com/file/d/1trQuINrELLAdfLISU23vXBJDaPVDPFwV/view?usp=sharing)
+[Resnet101+Pyramidal module(CUHK03-Labelled)](https://drive.google.com/file/d/1trQuINrELLAdfLISU23vXBJDaPVDPFwV/view?usp=sharing)
 
-[model(CUHK03-Detected)](https://drive.google.com/file/d/1Dcaaitj5u_IrFAv322S_O7ZamUF1q-0T/view?usp=sharing)
+[Resnet101+Pyramidal module(CUHK03-Detected)](https://drive.google.com/file/d/1Dcaaitj5u_IrFAv322S_O7ZamUF1q-0T/view?usp=sharing)
 
